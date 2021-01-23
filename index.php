@@ -6,7 +6,7 @@
         <meta name="viewport">
         <title>Upgrade account</title>
         <link rel="icon" href="p.jpg" type="image/jpg">
-        <link rel="stylesheet" href="assets/css/upgrade.css" type="text/css">
+        <link rel="stylesheet" href="upgrade.css" type="text/css">
 
     </head>
 <body>
